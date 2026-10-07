@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.1.0](https://github.com/pik-piam/flodym/compare/v1.0.0...v1.1.0) (2026-10-07)
+
+
+### 🔖 Features
+
+* add typing to `data_reader` ([#186](https://github.com/pik-piam/flodym/issues/186)) ([ef4eb9e](https://github.com/pik-piam/flodym/commit/ef4eb9e81830d1cc8fa9cdb33c46bfae44043bda))
+* enhance typing ([#193](https://github.com/pik-piam/flodym/issues/193)) ([d734e18](https://github.com/pik-piam/flodym/commit/d734e18191714435b53fb6c7cd3341cab630660c))
+* improve type hints and accept one dimension in `get_shares_over` ([#196](https://github.com/pik-piam/flodym/issues/196)) ([1750666](https://github.com/pik-piam/flodym/commit/1750666841ce3eb12ae09f1da92c6d957d6e2710))
+* lifetime extension by nature and nurture ([#192](https://github.com/pik-piam/flodym/issues/192)) ([faa44ba](https://github.com/pik-piam/flodym/commit/faa44ba26897bf928cb0da11fc054ee1105046a8))
+* make dynamic stock model base public ([#190](https://github.com/pik-piam/flodym/issues/190)) ([f754db9](https://github.com/pik-piam/flodym/commit/f754db921fa236720d36872bbd18d205c0d0698b))
+* small performance improvements ([#197](https://github.com/pik-piam/flodym/issues/197)) ([e81b91d](https://github.com/pik-piam/flodym/commit/e81b91d68a444e3ccf2f6dd220eff03f67434aea))
+
+
+### 🧹 Miscellaneous
+
+* add agents and claude config ([#188](https://github.com/pik-piam/flodym/issues/188)) ([7e7f94a](https://github.com/pik-piam/flodym/commit/7e7f94ae5eeed20b53565b00726b00ef75ad1f26))
+* add type rules and checker step to CI ([#187](https://github.com/pik-piam/flodym/issues/187)) ([e5bb580](https://github.com/pik-piam/flodym/commit/e5bb5804fb72d76ad2613417d1c3605f1e2c3480))
+
 ## [1.0.0](https://github.com/pik-piam/flodym/compare/v0.8.1...v1.0.0) (2026-08-19)
 
 
